@@ -1,10 +1,10 @@
 
 
-[http://www.google.ca] (http://www.google.ca)
+[http://www.google.ca] (go to google)
 
 
 
-[[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
+[[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]](sdfgsdfg)
 
 
 
