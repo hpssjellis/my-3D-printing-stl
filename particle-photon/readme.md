@@ -4,12 +4,14 @@
 To download individual 3D Printable .stl files click on "RAW" if github can not display the file it allows you to download it.
 
 
-when viewing .stl files. The mouse button zooms.
+when viewing .stl files. 
 
-Right click to pan
+The mouse button zooms.
+
+Right button to pan
 
 
-Left click to rotate
+Left button to rotate
 
 The .blend files can be used to edit the object, using free Blender3D at 
 
