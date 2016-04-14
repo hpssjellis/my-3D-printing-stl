@@ -11,10 +11,10 @@ Right click to pan
 
 Left click to rotate
 
-The .blend files can be used to edit the object, using Blender3D at 
+The .blend files can be used to edit the object, using free Blender3D at 
 
 https://www.blender.org/download/
 
-Most 3D editing software will allow importing the .stl files. Sometimes these files need to be tidied up usiing "decimate" or "Limited dissolve" to reduce the number of verticies
+Most 3D editing software (even online software) will allow importing the .stl files. Sometimes these files need to be tidied up usiing "decimate" or "Limited dissolve" to reduce the number of verticies
 
 
