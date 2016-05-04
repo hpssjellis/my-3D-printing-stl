@@ -5,9 +5,7 @@ To download individual 3D Printable .stl files click on "RAW" if github can not 
 
 
 
-Note: The latest .blend contains at the .stl files. Can be loaded using the free blender3D software
-
-The .blend files can be used to edit the object, using free Blender3D at 
+Note: The latest .blend file contains all the .stl files. The .blend can be loaded using the free blender3D software at 
 
 https://www.blender.org/download/
 
@@ -18,7 +16,6 @@ when viewing .stl files.
 The mouse button zooms.
 
 Right button to pan
-
 
 Left button to rotate
 
