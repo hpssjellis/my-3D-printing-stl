@@ -1,3 +1,3 @@
-For the Raspberry py to the http://particle.io photon
+For the Raspberry PI 3 to the http://particle.io Photon
 
-![]rasp-cheat-photon.png
+!(rasp-cheat-photon.png)
