@@ -15,3 +15,6 @@ see the STL at
 https://github.com/hpssjellis/my-3D-printing-stl/blob/master/raspberryPi/rasp-cover08-rasp-cover.stl
 
 
+![](pi-to-photon.jpg)
+
+
