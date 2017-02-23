@@ -7,6 +7,6 @@ The 3D Printed part just helps hold the paper in place and helps put holes into 
 
 
 
-![](pi-helper2.jpg)
+![](pi-helper3.jpg)
 
 see the STL
