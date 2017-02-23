@@ -9,4 +9,8 @@ The 3D Printed part just helps hold the paper in place and helps put holes into 
 
 ![](pi-helper3.jpg)
 
-see the STL
+see the STL at
+
+https://github.com/hpssjellis/my-3D-printing-stl/blob/master/raspberryPi/rasp-cover08-rasp-cover.stl
+
+
