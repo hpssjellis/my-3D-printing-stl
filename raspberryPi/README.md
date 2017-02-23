@@ -5,10 +5,7 @@ The 3D Printed part just helps hold the paper in place and helps put holes into 
 
 ![](rasp-cheat-photon.png)
 
-..
 
-
-![](pi-helper3.jpg)
 
 see the STL at
 
